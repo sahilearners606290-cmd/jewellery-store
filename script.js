@@ -23,7 +23,7 @@ const SHOP = {
     phone: "+91 98765 43210",
     instagram: "https://instagram.com/yourshop",
     address: "Lucknow, Uttar Pradesh",
-    logo: "images/logo.png"
+    logo: "logo.png"
 };
 
 // ========================================
